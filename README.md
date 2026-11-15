@@ -1,3 +1,29 @@
+# Yuxi-Know
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A self-hosted multi-tenant knowledge agent platform unifying RAG, knowledge graphs, multi-agent, MCP/Skills, sandbox and access control.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+可私有部署的多租户知识智能体平台，统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 ![Yuxi：可私有部署的多租户知识智能体平台](https://oss-img.xerrors.cn/github/yuxi-social-preview-a4f67514.svg)
 
 **Yuxi = Cloud Agents + Knowledge RAG**，Yuxi 是一个可私有部署的多租户知识智能体平台。自定义智能体，权限可控，沉淀企业轨迹。它把知识库检索、知识图谱、LangGraph 多智能体编排、MCP/Skills、沙盒工具和权限管理放进同一个工作区。让每个用户都拥有一个云端 Codex。
